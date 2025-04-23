@@ -61,12 +61,14 @@ This script handles the entire process: loading data, training, validating, and 
 
 ## Project Structure
 
+````markdown
 image-segmentation-pytorch/
 ├── DeepLab.ipynb          # Interactive notebook for modeling and evaluation
 ├── Neural-Network.py      # Script for full model training workflow
 ├── LICENSE                # License file
 ├── README.md              # Project documentation
 └── .ipynb_checkpoints/    # Auto-generated notebook backup files
+````
 
 ## Contributing
 Contributions are welcome. To contribute:
