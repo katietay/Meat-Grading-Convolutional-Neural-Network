@@ -89,3 +89,15 @@ For questions, collaboration, or feedback:
 - **Name**: Katie Taylor  
 - **Email**: katietaylorcruz@gmail.com  
 - **GitHub**: [https://github.com/katietay](https://github.com/katietay)
+
+## Acknowledgments
+This project was developed as part of the 2024 CSU/USDA Hackathon, which challenged participants to apply machine learning techniques to real-world agricultural problems.
+
+Special thanks to the organizers for creating an engaging and meaningful event that inspired us to explore AI-based solutions for meat grading and image classification.
+
+### Team Members
+- Katie Taylor
+- Thomas Stewart
+- Henry Gates
+
+We also extend our appreciation to the USDA for providing the problem domain and technical context that grounded our work in a practical application.
